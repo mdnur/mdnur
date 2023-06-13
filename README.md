@@ -3,6 +3,9 @@
 
 > A tech enthusiast, software developer ,Linux enthusiast,ML enthusiast <br/>
 
+Mohammad Nur here; I'm a devoted Java programmer. Java method was the most beautiful thing I've ever seen in my life in 7+ years of programming. sleek and precise. In addition, I've gained a lot of knowledge about contemporary web development tools and software development architectures like MVC, etc.
+To expand my knowledge, I am currently concentrating on machine learning and deep learning. 
+
 Specifically I love to work with Java and PHP.<br/>
 Laravel | VUE
 
